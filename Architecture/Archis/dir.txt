@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 526C-D3A2
+
+ Directory of C:\Data\git\gsoita\Architecture\Archis
+
+2016-01-15  14:37    <DIR>          .
+2016-01-15  14:37    <DIR>          ..
+2016-01-15  14:37                 0 dir.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  222ÿ187ÿ352ÿ064 bytes free

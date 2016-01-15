@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 526C-D3A2
+
+ Directory of C:\Data\git\gsoita
+
+2016-01-15  14:34    <DIR>          .
+2016-01-15  14:34    <DIR>          ..
+2016-01-15  14:12    <DIR>          Architecture
+2016-01-15  14:34                 0 dir.txt
+2016-01-15  14:22                30 README.md
+               2 File(s)             30 bytes
+               3 Dir(s)  222ÿ192ÿ189ÿ440 bytes free
